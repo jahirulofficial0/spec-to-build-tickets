@@ -1,0 +1,22 @@
+{
+  "name": "spec-to-build-tickets",
+  "version": "1.0.0",
+  "description": "Turn a rough idea into a PRD, user stories, acceptance criteria, edge cases, and sprint-ready tickets a developer or coding agent can execute directly.",
+  "author": {
+    "name": "Jahirul",
+    "url": "https://cloudskillhub.com"
+  },
+  "homepage": "https://cloudskillhub.com",
+  "repository": "https://github.com/jahirulofficial0/spec-to-build-tickets",
+  "license": "MIT",
+  "keywords": [
+    "claude-skill",
+    "product-management",
+    "prd",
+    "user-stories",
+    "sprint-planning",
+    "developer-tools",
+    "chatgpt-gpt",
+    "gemini-gem"
+  ]
+}
